@@ -1,4 +1,13 @@
-# Java/jUnit/RestAssured/Jackson/Mediator/Builder/Controller/Value Object
+# Technologies
+     Java
+     jUnit
+     RestAssured
+     Jackson
+## Patterns 
+    Mediator
+    Builder
+    Controller
+    Value Object
 
 ## Summary
 
